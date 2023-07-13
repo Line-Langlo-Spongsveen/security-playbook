@@ -10,7 +10,8 @@ Teamene har ansvaret for informasjonssikkerheten i sine løsninger og vet
 - hvilke trusler deres løsning kan utsettes for
 - hvilke iboende risikoer løsningen har
 - hvilken risiko brukere av løsningen får
-  Dette danner grunnlaget for deres risikovurderinger som dokumenteres i TryggNok.
+
+Dette danner grunnlaget for deres risikovurderinger som dokumenteres i TryggNok.
 
 ## TryggNok
 
